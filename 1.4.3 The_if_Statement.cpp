@@ -35,5 +35,6 @@ int main()
 The effect of this code is to set upper and lower appropriately. The if condition tests whether v1 is less than or equal to v2. If so,
 we perform the block that immediately follows the condition. This block contains two statements, each of which does an 
 assignment. The first statement assigns v1 to lower and the second assigns v2 to upper.
-If the condition is false--that is, if v1 is larger than v2--then we execute the statement following the else. Again, this statement is block consisting of two assignments. We assign v2 to lower and v1 to upper. 
+If the condition is false--that is, if v1 is larger than v2--then we execute the statement following the else. Again, 
+this statement is block consisting of two assignments. We assign v2 to lower and v1 to upper. 
 */
