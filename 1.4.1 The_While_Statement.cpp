@@ -1,5 +1,6 @@
 /*
-A while statement provides for iterative execution. We could use a while to write a program to sum the numbers from 1 through 10 inclusive as follows:
+A while statement provides for iterative execution. We could use a while to write a program to sum the numbers from 1 through 10 inclusive
+as follows:
 */
 
 #include <iostream> // we begin by including the iostream header
