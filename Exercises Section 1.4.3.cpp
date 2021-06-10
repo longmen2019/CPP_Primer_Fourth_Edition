@@ -42,7 +42,9 @@ return 0;
 
 }
 
-/*Exercise 1.17: Write a program to ask the user to enter a series of numbers. Print a message saying how many of the numbers are negative numbers.*/
+/*Exercise 1.17: Write a program to ask the user to enter a series of numbers. Print a message saying how many of the numbers are negative numbers.
+Reference: https://codescracker.com/cpp/program/cpp-program-count-positive-negative-zero.htm
+*/
 
 #include <iostream>
 
