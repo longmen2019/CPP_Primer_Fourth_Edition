@@ -41,6 +41,27 @@ else{
 return 0;
 
 }
+OR
+
+#include <iostream>
+int main(){
+  int v1 , v2;
+  std::cout << "Enter 2 numbers:" << std::endl;
+  std::cin >> v1 >> v2; // read input
+  int lower , upper;
+ if (v1 <= v2){
+   lower = v1;
+   upper = v2;
+ }
+ else {
+   lower = v2;
+   upper = v1;
+ }
+ std::cout<<"The larger number of the two is " <<upper<<std::endl;
+ 
+  return 0;
+}
+
 
 /*Exercise 1.17: Write a program to ask the user to enter a series of numbers. Print a message saying how many of the numbers are negative numbers.
 Reference: https://codescracker.com/cpp/program/cpp-program-count-positive-negative-zero.htm
