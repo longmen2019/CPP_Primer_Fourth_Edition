@@ -10,7 +10,8 @@ int main(){
     std::cout << "Enter values: " << std::endl;
     //read till end-of-file, calculating a running total of all values read 
     while(std::cin>> value) 
-    /*what happen here is that to evaluate the condition, the input operation is executed, which has the effect of reading the next number from the standard input, storing what was read in value.
+    /*what happen here is that to evaluate the condition, the input operation is executed, which has the effect of reading the next number from the standard input,
+    storing what was read in value.
     The input operator returns its left operand. The condition tests that result, meaning it tests
     std::cin.*/
       sum += value; // equivalent to sum = sum + value
