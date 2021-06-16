@@ -29,7 +29,8 @@ int main(){
   Sales_item item1, item2;
   std::cin >> item1 >> item2; //read a pair of transactions
   /*
-  addomg twp Sales_items together creates a new object whose ISBN is that of its operands and whose number sold and revenue reflect the sum of the corresponding  values in its operands.
+  addomg twp Sales_items together creates a new object whose ISBN is that of its operands and whose 
+  number sold and revenue reflect the sum of the corresponding  values in its operands.
   */
   std::cout << item1 + item2 << std::endl;//print their sun
   return 0;
