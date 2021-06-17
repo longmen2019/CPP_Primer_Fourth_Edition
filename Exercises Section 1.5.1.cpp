@@ -1,6 +1,8 @@
 /*
 Exercise 1.21:
-The Web site (https://stackoverflow.com/questions/15859764/c-primer-exercises-involving-sales-item-h) contains a copy of Sales_item.h in the Chapter 1 code directory. Copy that file to your working directory. Write a program that loops through a set of book sales transactions, reading each transaction and writing that transaction to the standard output. 
+The Web site (https://stackoverflow.com/questions/15859764/c-primer-exercises-involving-sales-item-h) contains
+a copy of Sales_item.h in the Chapter 1 code directory. Copy that file to your working directory. Write a program 
+that loops through a set of book sales transactions, reading each transaction and writing that transaction to the standard output. 
 */
 
 #include <iostream>
