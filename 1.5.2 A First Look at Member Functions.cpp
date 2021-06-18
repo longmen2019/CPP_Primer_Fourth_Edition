@@ -21,4 +21,5 @@ int main(void)
 // input: 0-201-7835-x 3 20.00
 // input: 0-201-7835-x 3 20.00
 // output: 0-201-7835-x 6 120 20
-/*The dot operator fetches its right-hand operand from its left. The dot operator fetches its right-hand operand from its left. The dot operator applies only to objects of class type: The left-hand operand must be an object of class type; the right-hand operand must name a member of that type.*/
+/*The dot operator fetches its right-hand operand from its left. The dot operator fetches its right-hand operand from its left. The dot operator
+applies only to objects of class type: The left-hand operand must be an object of class type; the right-hand operand must name a member of that type.*/
