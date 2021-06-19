@@ -1,5 +1,8 @@
 // http://www.cplusplus.com/forum/beginner/186645/
-/*Write a program that reads several transactions. For each new transaction that you read, determine if it is the same ISBN as the previous transaction, keeping a count of how many transactions there are for each ISBN. Test the program by giving multiple transactions. These transactions should represent multiple ISBNs but the records for each ISBN should be grouped together.*/
+/*Write a program that reads several transactions. For each new transaction that you read, 
+determine if it is the same ISBN as the previous transaction, keeping a count of how many transactions there are for
+each ISBN. Test the program by giving multiple transactions. These transactions should represent multiple 
+ISBNs but the records for each ISBN should be grouped together.*/
 
 #include <iostream>
 #include "Sales_item.h"
