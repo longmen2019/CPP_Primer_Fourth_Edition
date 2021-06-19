@@ -7,7 +7,8 @@ as follows:
 
 int main() // We also define a main function
 {
-  //inside main we define two int variables: sum, which will hold our summation, and val, which will represent each of the values from 1 through 10
+  //inside main we define two int variables: sum, which will hold our summation, 
+  //and val, which will represent each of the values from 1 through 10
   int sum =0 , val = 1;
   //we give sum an initial value of zero and start val oof with the value one.
   //keep executing the while until val is greater than 10
@@ -20,7 +21,8 @@ int main() // We also define a main function
     sum+= val; //assigns sum+val to sum
     ++val;
   }
-  // A while executes by (repeatedly) testing the condition and executing the associated while_body_statement until the condition is false
+  // A while executes by (repeatedly) testing the condition and executing 
+  //the associated while_body_statement until the condition is false
   std::cout << "Sum of 1 to 10 inclusive is "
             <<sum << std::endl;
   return 0;
