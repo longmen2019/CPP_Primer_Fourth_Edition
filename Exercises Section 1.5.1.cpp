@@ -42,6 +42,7 @@ return 0;
 }
 
  /*
+ Exercise 1.23:
  Write a program that reads several transactions for the same ISBN. Write the sum of all the transaction that were read.
  */
 
