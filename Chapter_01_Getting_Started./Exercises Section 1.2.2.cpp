@@ -46,7 +46,7 @@ int main()
 
 // Explain what the following program fragment does:
 
-  std:: cout << "The sum of " << v1;
+  std:: cout << "The sum of " << v1; // to print the result. It prints each of its operands to the standard output
 
             << " and " << v2;
             << "is " << v1 + v2
