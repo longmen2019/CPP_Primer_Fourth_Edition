@@ -13,7 +13,7 @@ int main()
   int sum = 0;
   // sum values from 1 up to 10 inclusive
   // The for statement has two parts: the for header and the for body.
-  //The header controls how often the body si executed.
+  //The header controls how often the body is executed.
   //The header itself consists of three parts: an init-statement, a condition, and an expression
   for (int val = 1 ; val <= 10; ++val) 
   //In this case, the init-statement: int val = 1; defines an int object named val and gives it an initial value of one.
