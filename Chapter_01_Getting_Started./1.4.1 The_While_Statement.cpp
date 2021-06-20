@@ -19,7 +19,7 @@ int main() // We also define a main function
   */
   while (val <= 10){
     sum+= val; //assigns sum+val to sum
-    ++val;
+    ++val; // add 1 to val
   }
   // A while executes by (repeatedly) testing the condition and executing 
   //the associated while_body_statement until the condition is false
