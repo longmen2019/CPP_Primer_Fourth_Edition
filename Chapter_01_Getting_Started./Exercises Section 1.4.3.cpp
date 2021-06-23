@@ -5,7 +5,8 @@ Answer: If the input values are equal, it will print a line which show the count
 */
 
 /*Exercise 1.15:
-Compile and run the program from this section with two equal values as input. Compare the output to what you predicted in the previous exercise. Explain any discrepancy between what happened and what you predicted.*/
+Compile and run the program from this section with two equal values as input. Compare the output to what you predicted in the 
+previous exercise. Explain any discrepancy between what happened and what you predicted.*/
 
 
 #include <iostream>
