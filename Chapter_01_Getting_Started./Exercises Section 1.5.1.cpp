@@ -74,4 +74,4 @@ return 0;
    }
    return 0;
  }
-
+// Ctrl + D = terminate the command 
