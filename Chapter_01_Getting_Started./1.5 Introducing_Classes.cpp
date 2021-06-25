@@ -1,8 +1,8 @@
 /*Reference 
 https://stackoverflow.com/questions/15859764/c-primer-exercises-involving-sales-item-h
 */
-#include <iostream>
-#include "Sales_item.h"
+#include <iostream> // Hearders for standard libary are enclosed in angle brackets (< >).
+#include "Sales_item.h" // Nonstandard headers are encolosed in double quotes (" ")
 
 int main(){
   Sales_item book;
