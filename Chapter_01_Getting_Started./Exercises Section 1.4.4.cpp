@@ -38,7 +38,7 @@ int main ()
    {
       std::cout << i << ' ';
       
-      if (i % x == 0)
+      if (i % x == 0)  //Use the modulo operator (%) to print a newline
       {
          std::cout << '\n';
       }
