@@ -1,23 +1,23 @@
-// /*
-// Exercise 1.25:
-// Using the Sales_item.h header from the Web site, compile and execute the bookstore program presented in this section
-// */
+/*
+Exercise 1.25:
+Using the Sales_item.h header from the Web site, compile and execute the bookstore program presented in this section
+*/
 
-// #include <iostream>
-// #include "Sales_item.h"
+#include <iostream>
+#include "Sales_item.h"
 
-// int main(){
-//   Sales_item item1, item2;
-//   std::cin >> item1 >> item2;
-//   if (item1.isbn()==item2.isbn()){
-//     std::cout<< item1 + item2 << std::endl;
-//   }
-//   else{
-//     std::cerr << "Input error: different ISBN.\n";
-//   }
-//   return 0;
+int main(){
+  Sales_item item1, item2;
+  std::cin >> item1 >> item2;
+  if (item1.isbn()==item2.isbn()){
+    std::cout<< item1 + item2 << std::endl;
+  }
+  else{
+    std::cerr << "Input error: different ISBN.\n";
+  }
+  return 0;
 
-// }
+}
 
 // /*
 // Exercise 1.26:
